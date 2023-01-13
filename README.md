@@ -1,15 +1,15 @@
 # FirstYearProject
 
-contributors name
+Contributors name
 
-viral sachde
-khyat talsaniya
-patel tirth
-parmar viraj
-patel dev
-padaliya sneh
+Sachde Viral
+Talsaniya Khyat
+Patel Tirth
+Parmar viraj
+Patel Dev
+Padaliya Sneh
 
 
-while fork check address of all html files as per your computers' addresses vice-versa.
-thank you
+While fork check address of all html files as per your computers' addresses vice-versa.
+Thank you
 
